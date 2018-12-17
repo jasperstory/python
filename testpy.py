@@ -21,3 +21,5 @@ def examine(noun):
     return GameObject.objects[noun].get_desc()
   else:
     return "There is no {} here.".format(noun)
+
+111111111111111111111111
